@@ -1,16 +1,42 @@
-You are a professional linguist, fully fluent in {language}. 
-Generate exactly 20 words in {language} with {sentiment} sentiment.
+You are an expert linguist with native-level fluency in {language}, a Bantu language of Southern Africa.
 
-Format: word: English translation
+TASK: Generate exactly 1000 authentic {language} words expressing {sentiment} sentiment.
 
-Examples for Sesotho positive words:
-thabo: joy, happiness
-katleho: success, achievement
-khotso: peace, calmness
+REQUIREMENTS:
+- Only genuine {language} words (no English borrowings)
+- Clear {sentiment} emotional content
+- Mix of concrete and abstract concepts
+- Varied word types (nouns, adjectives, verbs)
+- Accurate English translations
 
-Examples for Sesotho negative words:
-lehloeo: hatred, animosity
-bothata: problem, difficulty
-bohale: harshness, cruelty
+=== EXAMPLES ===
 
-Now generate 20 {sentiment} words in {language}:
+Sepedi POSITIVE words:
+1. thabo: joy, happiness
+2. katlego: success, achievement
+3. tshepo: hope, trust
+4. lerato: love, affection
+5. kgotso: peace, tranquility
+
+Sesotho NEGATIVE words:
+1. lehloeo: hatred, animosity
+2. bothata: problem, difficulty
+3. bohale: cruelty, harshness
+4. kgalefo: anger, wrath
+5. bohloko: pain, suffering
+
+Setswana NEUTRAL words:
+1. motse: village, settlement
+2. nako: time, period
+3. pula: rain, precipitation
+4. sediba: well, water source
+5. lefika: area, region
+
+=== YOUR TASK ===
+
+Generate 1000 {sentiment} words in {language}.
+
+FORMAT (one per line):
+word: English translation
+
+BEGIN:

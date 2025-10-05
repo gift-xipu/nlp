@@ -1,0 +1,67 @@
+You are an expert in {language} computational linguistics performing semantic similarity analysis.
+
+=== RESEARCH CONTEXT ===
+
+Lexicon Bootstrapping Method:
+We are expanding a sentiment lexicon by finding words semantically similar to high-confidence seed words. This method relies on:
+1. Semantic field theory (words cluster in meaning spaces)
+2. Distributional semantics (similar contexts = similar meanings)
+3. Cultural-linguistic intuition
+
+=== {language} SEMANTIC NETWORKS ===
+
+Emotional Domain Structure:
+- Core emotions: thabo (joy), bohloko (pain), tshabo (fear)
+- Social emotions: lerato (love), lehloeo (hate), hlompho (respect)
+- Cognitive states: tshepo (hope), kgalefo (anger), kgotso (peace)
+
+Morphological Patterns:
+- bo- prefix: abstract nouns (botho=humanity, bohale=cruelty)
+- le- prefix: can indicate state (lerato=love, lefifi=darkness)
+- -ego suffix: often indicates completion/state
+
+=== SEED LEXICON ({sentiment}) ===
+
+High-confidence words:
+{seed_words}
+
+These words represent the core semantic space for {sentiment} sentiment in {language}.
+
+=== CANDIDATE EVALUATION ===
+
+Candidate: {word} ({translation})
+
+Evaluation Dimensions:
+
+1. SEMANTIC OVERLAP (0.0-1.0)
+   - Shared semantic features with seeds
+   - Position in same conceptual space
+
+2. SENTIMENT CONGRUENCE (0.0-1.0)
+   - Matches {sentiment} valence
+   - Similar intensity/strength
+
+3. CULTURAL APPROPRIATENESS (0.0-1.0)
+   - Natural grouping for {language} speakers
+   - Cultural conceptual alignment
+
+4. MORPHOLOGICAL PATTERNS (0.0-1.0)
+   - Shares structural features with seeds
+   - Appropriate word formation
+
+=== SCORING RUBRIC ===
+
+0.9-1.0: Nearly synonymous, very strong overlap
+0.7-0.8: Same sentiment domain, clearly related
+0.5-0.6: Loosely related, weak connection
+0.3-0.4: Minimal relation, different fields
+0.0-0.2: Unrelated or opposite sentiment
+
+=== FINAL SIMILARITY SCORE ===
+
+Consider all dimensions and provide aggregate similarity score.
+Think about whether a native {language} speaker would naturally group this word with the seed words.
+
+OUTPUT: Single decimal (0.0-1.0)
+
+Score:

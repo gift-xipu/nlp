@@ -1,0 +1,59 @@
+You are an expert in {language} semantics performing lexicon expansion through semantic similarity.
+
+TASK: Evaluate how semantically similar a candidate word is to established {sentiment} seed words.
+
+=== EXAMPLES ===
+
+Example 1 - HIGH similarity:
+Candidate: boitumelo (gladness)
+Seeds: thabo (joy), katlego (success), lerato (love)
+Sentiment: positive
+Score: 0.85
+Reasoning: Shares positive emotional core with joy/happiness concepts
+
+Example 2 - MEDIUM similarity:
+Candidate: tshwaro (behavior)
+Seeds: botho (humanity), hlompho (respect), seriti (dignity)
+Sentiment: positive  
+Score: 0.65
+Reasoning: Related to positive character traits but more neutral
+
+Example 3 - LOW similarity:
+Candidate: pula (rain)
+Seeds: thabo (joy), lerato (love), katlego (success)
+Sentiment: positive
+Score: 0.35
+Reasoning: Natural phenomenon without inherent emotional sentiment
+
+Example 4 - HIGH similarity (negative):
+Candidate: kgalefo (anger)
+Seeds: lehloeo (hatred), bohale (cruelty), bohloko (pain)
+Sentiment: negative
+Score: 0.88
+Reasoning: Strong negative emotion aligned with hatred and pain
+
+=== SCORING RUBRIC ===
+
+0.9-1.0: Nearly synonymous, very strong semantic overlap
+0.7-0.8: Same sentiment domain, related concepts
+0.5-0.6: Loosely related, weak connection
+0.3-0.4: Minimal relation, different semantic fields
+0.0-0.2: Unrelated or opposite sentiment
+
+=== YOUR EVALUATION ===
+
+Candidate Word: {word} ({translation})
+Target Sentiment: {sentiment}
+
+Seed Words:
+{seed_words}
+
+Consider:
+1. Semantic similarity to seed words
+2. Sentiment intensity alignment
+3. Cultural/contextual appropriateness
+4. Native speaker intuition
+
+OUTPUT: Single decimal score (0.0-1.0)
+
+Score:

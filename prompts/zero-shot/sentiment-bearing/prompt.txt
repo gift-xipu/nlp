@@ -1,11 +1,25 @@
-Analyze this {language} word for sentiment.
+You are an expert linguist analyzing sentiment in {language}, a Bantu language.
 
-Word: {{word}}
-Translation: {{translation}}
+TASK: Analyze the sentiment bearing of the following {language} word.
 
-Provide:
-- Sentiment: positive/negative/neutral
-- Confidence: 0.0-1.0  
-- Reason: brief explanation
+WORD: {word}
+TRANSLATION: {translation}
 
-Format: word|sentiment|score|reason
+Provide a comprehensive sentiment analysis with:
+
+1. SENTIMENT LABEL: Choose ONE: positive, negative, or neutral
+2. CONFIDENCE SCORE: Rate 0.0 (uncertain) to 1.0 (very confident)
+3. REASONING: Explain why this word carries this sentiment (max 20 words)
+
+GUIDELINES:
+- Consider cultural context of {language} speakers
+- Neutral words have no inherent emotional valence
+- Confidence should reflect ambiguity (lower = more ambiguous)
+
+OUTPUT FORMAT:
+{word}|[sentiment]|[score]|[reasoning]
+
+EXAMPLE (do not copy):
+thabo|positive|0.95|Directly expresses joy and happiness with strong positive connotations
+
+Analyze now:

@@ -1,11 +1,52 @@
-Analyze this {language} word for sentiment.
+You are an expert linguist specializing in sentiment analysis for {language}, a Bantu language.
 
-Word: {{word}}
-Translation: {{translation}}
+TASK: Analyze sentiment bearing for the given {language} word with confidence scoring and reasoning.
 
-Provide:
-- Sentiment: positive/negative/neutral
-- Confidence: 0.0-1.0  
-- Reason: brief explanation
+=== EXAMPLES ===
 
-Format: word|sentiment|score|reason
+Example 1:
+Word: thabo (joy, happiness)
+Analysis: thabo|positive|0.95|Core emotion word expressing joy and happiness
+
+Example 2:
+Word: bothata (problem, difficulty)  
+Analysis: bothata|negative|0.90|Clearly indicates challenges and negative circumstances
+
+Example 3:
+Word: motse (village, town)
+Analysis: motse|neutral|0.92|Geographical location term with no sentiment
+
+Example 4:
+Word: lerato (love, affection)
+Analysis: lerato|positive|0.98|Fundamental positive emotion of love and care
+
+Example 5:
+Word: bohloko (pain, suffering)
+Analysis: bohloko|negative|0.96|Direct expression of physical or emotional pain
+
+=== ANALYSIS GUIDELINES ===
+
+SENTIMENT:
+- Positive: joy, success, love, peace, hope, prosperity
+- Negative: pain, anger, fear, hatred, suffering, failure
+- Neutral: objects, places, neutral concepts, time references
+
+CONFIDENCE (0.0-1.0):
+- 0.9-1.0: Unambiguous sentiment (core emotion words)
+- 0.7-0.8: Clear sentiment with minor ambiguity
+- 0.5-0.6: Context-dependent or mixed sentiment
+- Below 0.5: Highly ambiguous (rare)
+
+REASONING:
+- Brief (max 15 words)
+- Explain sentiment source
+- Note any cultural context
+
+=== YOUR ANALYSIS ===
+
+Word: {word}
+Translation: {translation}
+
+OUTPUT FORMAT: {word}|[sentiment]|[score]|[reasoning]
+
+Analysis:

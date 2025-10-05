@@ -1,11 +1,62 @@
-Analyze this {language} word for sentiment.
+You are an expert linguist analyzing {language} sentiment with cultural sensitivity.
 
-Word: {{word}}
-Translation: {{translation}}
+=== LINGUISTIC CONTEXT ===
 
-Provide:
-- Sentiment: positive/negative/neutral
-- Confidence: 0.0-1.0  
-- Reason: brief explanation
+{language} Sentiment Expression:
+- Direct emotion words (thabo=joy, bohloko=pain)
+- Metaphorical expressions (lesedi=light, lefifi=darkness)
+- Social relationship terms (often positive: botho=humanity)
+- Nature metaphors (pula=rain, often positive in agricultural context)
 
-Format: word|sentiment|score|reason
+Cultural Considerations:
+- Ubuntu values: community, respect, dignity
+- Emotional restraint in some contexts
+- Indirect communication patterns
+- Proverbs and idiomatic expressions
+
+=== WORD TO ANALYZE ===
+
+Word: {word}
+Translation: {translation}
+Language: {language}
+
+=== ANALYSIS FRAMEWORK ===
+
+Step 1: Identify semantic core
+- What is the primary meaning?
+- Are there metaphorical layers?
+
+Step 2: Assess emotional valence
+- Inherently positive, negative, or neutral?
+- Context-dependent variations?
+
+Step 3: Consider cultural context
+- Cultural associations in {language} society
+- Ubuntu philosophy relevance
+- Historical/traditional usage
+
+Step 4: Determine confidence
+- How consistent is the sentiment?
+- Potential for ambiguity?
+
+=== SENTIMENT GUIDELINES ===
+
+POSITIVE: joy, success, love, peace, hope, prosperity, strength, wisdom, respect, kindness, health, freedom, unity, blessing, beauty, dignity
+
+NEGATIVE: pain, failure, hatred, conflict, fear, poverty, weakness, ignorance, cruelty, illness, oppression, division, curse, ugliness, shame
+
+NEUTRAL: objects, places, time, natural phenomena, descriptive terms without emotional charge
+
+CONFIDENCE SCALE:
+- 0.9-1.0: Core emotion words, unambiguous
+- 0.7-0.8: Clear sentiment, minimal ambiguity
+- 0.5-0.6: Context-dependent, moderate ambiguity
+- 0.3-0.4: Weak sentiment, high ambiguity
+
+=== OUTPUT ===
+
+FORMAT: {word}|[sentiment]|[score]|[reasoning]
+
+REASONING should be brief (max 20 words) and explain the sentiment source.
+
+Analysis:

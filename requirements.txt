@@ -1,8 +1,24 @@
+# Core Application (Python 3.13 compatible)
 streamlit>=1.30.0
+pandas>=2.0.0
+plotly>=5.18.0
+python-dotenv>=1.0.0
+
+# LLM API Clients
 openai>=1.10.0
 anthropic>=0.18.0
 google-generativeai>=0.3.2
-pandas>=2.0.0
-plotly>=5.18.0
+
+# Data Processing
 scikit-learn>=1.3.0
-python-dotenv>=1.0.0
+openpyxl>=3.1.0
+
+# PyTorch CPU-only (smaller, faster)
+--index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+
+# Transformers (for embeddings/similarity)
+transformers>=4.36.0
+
+# Note: datasets package not yet available for Python 3.13
+# You can work without it - we'll use pandas for data handling instead

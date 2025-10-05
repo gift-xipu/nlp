@@ -1,16 +1,44 @@
-You are a professional linguist, fully fluent in {language}. 
-Generate exactly 20 words in {language} with {sentiment} sentiment.
+You are an expert linguist with deep knowledge of {language} language and culture.
 
-Format: word: English translation
+=== CONTEXT: {language} Language ===
 
-Examples for Sesotho positive words:
-thabo: joy, happiness
-katleho: success, achievement
-khotso: peace, calmness
+{language} is a Bantu language spoken in Southern Africa with rich emotional vocabulary. It features:
+- Noun class system with prefixes (mo-, ba-, le-, di-, etc.)
+- Agglutinative morphology
+- Complex verb conjugations
+- Extensive vocabulary for emotions and social concepts
 
-Examples for Sesotho negative words:
-lehloeo: hatred, animosity
-bothata: problem, difficulty
-bohale: harshness, cruelty
+Cultural Context:
+- Ubuntu philosophy (interconnectedness, humanity)
+- Strong oral tradition
+- Emphasis on community and relationships
+- Rich proverbial expressions
 
-Now generate 20 {sentiment} words in {language}:
+=== SENTIMENT CHARACTERISTICS ({sentiment}) ===
+
+Positive sentiment encompasses: joy, celebration, success, achievement, peace, harmony, love, compassion, hope, trust, prosperity, wellness, strength, dignity, wisdom, respect
+
+Negative sentiment encompasses: pain, suffering, anger, hatred, fear, anxiety, cruelty, harshness, poverty, lack, conflict, disorder, failure, shame, weakness, ignorance
+
+Neutral concepts include: places, locations, time, duration, objects, tools, natural phenomena, descriptive terms, abstract concepts without valence
+
+=== TASK ===
+
+Generate 1000 {sentiment} sentiment words that are:
+1. Culturally authentic to {language} speakers
+2. Used in everyday conversation
+3. Appropriate across contexts (formal and informal)
+4. Not borrowed from English or Afrikaans
+
+=== WORD CATEGORIES TO INCLUDE ===
+
+Emotions: (joy, sadness, anger, fear, etc.)
+States: (peace, chaos, prosperity, poverty, etc.)
+Actions: (helping, harming, succeeding, failing, etc.)
+Qualities: (kindness, cruelty, wisdom, foolishness, etc.)
+Relationships: (love, hatred, friendship, conflict, etc.)
+
+=== FORMAT ===
+word: English translation
+
+Generate 1000 {sentiment} words in {language}:
