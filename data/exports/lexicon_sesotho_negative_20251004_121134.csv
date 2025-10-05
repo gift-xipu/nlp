@@ -1,0 +1,87 @@
+word,translation,language,sentiment,prompt_strategy
+bohloko,"pain, suffering",Sesotho,negative,few-shot
+lefu,"death, demise",Sesotho,negative,few-shot
+tšabo,"fear, fright",Sesotho,negative,few-shot
+bodutu,"laziness, idleness",Sesotho,negative,few-shot
+bohobe,"poverty, destitution",Sesotho,negative,few-shot
+kgatello,"oppression, pressure",Sesotho,negative,few-shot
+bohlanya,"madness, insanity",Sesotho,negative,few-shot
+sehlola,"curse, misfortune",Sesotho,negative,few-shot
+boikepo,"selfishness, greed",Sesotho,negative,few-shot
+tlala,"hunger, famine",Sesotho,negative,few-shot
+bohlasoa,"cruelty, brutality",Sesotho,negative,few-shot
+keletso,"jealousy, envy",Sesotho,negative,few-shot
+boferefere,"chaos, disorder",Sesotho,negative,few-shot
+sehlohlo,"disgrace, shame",Sesotho,negative,few-shot
+boima,"heaviness, burden",Sesotho,negative,few-shot
+lefifi,"darkness, gloom",Sesotho,negative,few-shot
+bohlale,"wickedness, evil",Sesotho,negative,few-shot
+kgalefo,"anger, wrath",Sesotho,negative,few-shot
+boitšoaro,"bad behavior, misconduct",Sesotho,negative,few-shot
+phoso,"mistake, error",Sesotho,negative,few-shot
+sehlabo,"disaster, calamity",Sesotho,negative,few-shot
+lehuma,"shame, disgrace",Sesotho,negative,few-shot
+boitumelo,"sorrow, sadness",Sesotho,negative,few-shot
+seqhomane,"betrayal, treachery",Sesotho,negative,few-shot
+bosula,"evil, wickedness",Sesotho,negative,few-shot
+chefo,"poison, venom",Sesotho,negative,few-shot
+leshano,"misfortune, bad luck",Sesotho,negative,few-shot
+makala,"worry, anxiety",Sesotho,negative,few-shot
+boomo,"dryness, drought",Sesotho,negative,few-shot
+lenyalo,"divorce, separation",Sesotho,negative,few-shot
+nyeoe,"jealousy, envy",Sesotho,negative,few-shot
+tšoenyeho,"worry, anxiety",Sesotho,negative,few-shot
+khutsafalo,"disappointment, letdown",Sesotho,negative,few-shot
+sehlohonolo,"bad luck, misfortune",Sesotho,negative,few-shot
+tšenyo,"damage, destruction",Sesotho,negative,few-shot
+boitšholo,"arrogance, pride",Sesotho,negative,few-shot
+botsofali,"old age, frailty",Sesotho,negative,few-shot
+sekgoba,"destruction, ruin",Sesotho,negative,few-shot
+boikobo,"cowardice, timidity",Sesotho,negative,few-shot
+seoa,"shame, disgrace",Sesotho,negative,few-shot
+sefebe,"prostitute, immoral person",Sesotho,negative,few-shot
+leoatle,"storm, turbulence",Sesotho,negative,few-shot
+kgathatso,"disturbance, trouble",Sesotho,negative,few-shot
+mathata,"troubles, difficulties",Sesotho,negative,few-shot
+bolotsana,"illness, sickness",Sesotho,negative,few-shot
+qomatso,"anger, rage",Sesotho,negative,few-shot
+sebe,"sin, wrongdoing",Sesotho,negative,few-shot
+lehlaba,"desert, barrenness",Sesotho,negative,few-shot
+kobo,"shame, disgrace",Sesotho,negative,few-shot
+boitlhobolo,"arrogance, pride",Sesotho,negative,few-shot
+lehlanya,"fool, crazy person",Sesotho,negative,few-shot
+leqheka,"disgrace, shame",Sesotho,negative,few-shot
+maikutlo,"sadness, sorrow",Sesotho,negative,few-shot
+sehlare,"poison, toxin",Sesotho,negative,few-shot
+nyahamo,"disgust, revulsion",Sesotho,negative,few-shot
+kgohlo,"jealousy, envy",Sesotho,negative,few-shot
+monyetla,"jealousy, envy",Sesotho,negative,few-shot
+nyakallo,"poverty, destitution",Sesotho,negative,few-shot
+bokhopo,"weakness, frailty",Sesotho,negative,few-shot
+tšabo-matšoenyeho,"anxiety, worry",Sesotho,negative,few-shot
+bohlasedi,"blindness, ignorance",Sesotho,negative,few-shot
+bohlobaelo,"cruelty, brutality",Sesotho,negative,few-shot
+boikano,loneliness,Sesotho,negative,few-shot
+lenyatso,"shame, disgrace",Sesotho,negative,few-shot
+kotsi,"danger, accident",Sesotho,negative,few-shot
+sebete,"cruelty, brutality",Sesotho,negative,few-shot
+botsoa,"ugliness, repulsiveness",Sesotho,negative,few-shot
+lehlolo,"failure, defeat",Sesotho,negative,few-shot
+tlhekefetso,"betrayal, treachery",Sesotho,negative,few-shot
+mofufutso,"corruption, decay",Sesotho,negative,few-shot
+lesedi,"blindness, lack of sight",Sesotho,negative,few-shot
+botšhila,"poverty, destitution",Sesotho,negative,few-shot
+boikhohomoso,"arrogance, pride",Sesotho,negative,few-shot
+letšoao,"curse, bad omen",Sesotho,negative,few-shot
+letlalo,"skin disease, illness",Sesotho,negative,few-shot
+letšilo,"destruction, ruin",Sesotho,negative,few-shot
+lerata,"noise, disturbance",Sesotho,negative,few-shot
+boitumelo-bo-fosahetseng,"false happiness, deception",Sesotho,negative,few-shot
+hlokahala,"poverty, destitution",Sesotho,negative,few-shot
+boleo,"laziness, idleness",Sesotho,negative,few-shot
+mafura,"greed, selfishness",Sesotho,negative,few-shot
+bohodu,"theft, stealing",Sesotho,negative,few-shot
+qhekanyetso,"destruction, ruin",Sesotho,negative,few-shot
+nyefolo,"disappointment, letdown",Sesotho,negative,few-shot
+bopelotelele,"impatience, restlessness",Sesotho,negative,few-shot
+monate,"wickedness, evil",Sesotho,negative,few-shot

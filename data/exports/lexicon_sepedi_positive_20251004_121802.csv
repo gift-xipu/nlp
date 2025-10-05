@@ -1,0 +1,137 @@
+word,translation,language,sentiment,prompt_strategy
+thabo,"joy, happiness",Sepedi,positive,few-shot
+kgotso,"peace, tranquility",Sepedi,positive,few-shot
+lerato,"love, affection",Sepedi,positive,few-shot
+katleho,"success, achievement",Sepedi,positive,few-shot
+tshwaro,"hope, trust",Sepedi,positive,few-shot
+boitumelo,"joy, gladness",Sepedi,positive,few-shot
+botho,"humanity, kindness",Sepedi,positive,few-shot
+maatla,"strength, power",Sepedi,positive,few-shot
+phedisano,"good health, wellness",Sepedi,positive,few-shot
+kgothatso,"comfort, consolation",Sepedi,positive,few-shot
+bohlale,"wisdom, intelligence",Sepedi,positive,few-shot
+tshegofatso,"blessing, favor",Sepedi,positive,few-shot
+boikanyego,"honesty, integrity",Sepedi,positive,few-shot
+kgalemo,"friendliness, warmth",Sepedi,positive,few-shot
+boiketlo,"contentment, satisfaction",Sepedi,positive,few-shot
+tshepo,"trust, confidence",Sepedi,positive,few-shot
+kutlwisiso,"understanding, compassion",Sepedi,positive,few-shot
+boitshwarelo,"forgiveness, mercy",Sepedi,positive,few-shot
+paballo,"salvation, rescue",Sepedi,positive,few-shot
+thuša,"help, assistance",Sepedi,positive,few-shot
+tšhomišano,"cooperation, collaboration",Sepedi,positive,few-shot
+kutlwano,"understanding, empathy",Sepedi,positive,few-shot
+kgalalelo,"comfort, consolation",Sepedi,positive,few-shot
+bohlokwa,"importance, value",Sepedi,positive,few-shot
+phetogo,"positive change, transformation",Sepedi,positive,few-shot
+tsebo,"knowledge, wisdom",Sepedi,positive,few-shot
+tšhwanelo,"respect, honor",Sepedi,positive,few-shot
+boipelo,"life, vitality",Sepedi,positive,few-shot
+tšhono,"opportunity, chance",Sepedi,positive,few-shot
+tumedišo,"blessing, good fortune",Sepedi,positive,few-shot
+thušo,"help, assistance",Sepedi,positive,few-shot
+seriti,"dignity, honor",Sepedi,positive,few-shot
+botle,"beauty, goodness",Sepedi,positive,few-shot
+poloko,"safety, protection",Sepedi,positive,few-shot
+pholoso,"healing, recovery",Sepedi,positive,few-shot
+kagiso,"peace, harmony",Sepedi,positive,few-shot
+tšhaba,"hope, expectation",Sepedi,positive,few-shot
+tšhepo,"trust, faith",Sepedi,positive,few-shot
+bokgoni,"ability, skill",Sepedi,positive,few-shot
+hlompho,"respect, reverence",Sepedi,positive,few-shot
+botšhelo,"life, existence",Sepedi,positive,few-shot
+pholo,"health, wellness",Sepedi,positive,few-shot
+tumelano,"agreement, harmony",Sepedi,positive,few-shot
+bogale,"strength, power",Sepedi,positive,few-shot
+tlotlo,"respect, honor",Sepedi,positive,few-shot
+bonolo,"gentleness, kindness",Sepedi,positive,few-shot
+mmogo,"unity, togetherness",Sepedi,positive,few-shot
+pula,"rain, blessing",Sepedi,positive,few-shot
+pelo,"heart, kindness",Sepedi,positive,few-shot
+lesedi,"light, wisdom",Sepedi,positive,few-shot
+thabiso,"celebration, festivity",Sepedi,positive,few-shot
+thuto,"education, knowledge",Sepedi,positive,few-shot
+kopano,"unity, togetherness",Sepedi,positive,few-shot
+boemo,"dignity, status",Sepedi,positive,few-shot
+tokafalo,"blessing, favor",Sepedi,positive,few-shot
+lethabo,"joy, happiness",Sepedi,positive,few-shot
+phelelo,"life, vitality",Sepedi,positive,few-shot
+tšhireletsego,"security, protection",Sepedi,positive,few-shot
+boikokobetso,"humility, modesty",Sepedi,positive,few-shot
+sebete,"wealth, prosperity",Sepedi,positive,few-shot
+kgotsofalo,"contentment, satisfaction",Sepedi,positive,few-shot
+kgolo,"growth, development",Sepedi,positive,few-shot
+mmino,"music, song",Sepedi,positive,few-shot
+thapelo,"prayer, blessing",Sepedi,positive,few-shot
+tsela,"way, path (positive journey)",Sepedi,positive,few-shot
+sebaka,"opportunity, chance",Sepedi,positive,few-shot
+monate,"pleasure, enjoyment",Sepedi,positive,few-shot
+phedišo,"healing, recovery",Sepedi,positive,few-shot
+mohau,"mercy, grace",Sepedi,positive,few-shot
+tokelo,"right, entitlement",Sepedi,positive,few-shot
+tšweletšo,"progress, advancement",Sepedi,positive,few-shot
+tebogo,"gratitude, thankfulness",Sepedi,positive,few-shot
+boipelaetšo,"hope, optimism",Sepedi,positive,few-shot
+botlhale,"wisdom, intelligence",Sepedi,positive,few-shot
+bopelotelele,"patience, endurance",Sepedi,positive,few-shot
+tshiamo,"justice, righteousness",Sepedi,positive,few-shot
+bopelokgale,"wellness, good health",Sepedi,positive,few-shot
+phahameng,"excellence, superiority",Sepedi,positive,few-shot
+theko,"value, worth",Sepedi,positive,few-shot
+motheo,"foundation, strength",Sepedi,positive,few-shot
+nako,"good time, opportunity",Sepedi,positive,few-shot
+maemo,"dignity, status",Sepedi,positive,few-shot
+kgodišo,"growth, development",Sepedi,positive,few-shot
+khutšo,"comfort, consolation",Sepedi,positive,few-shot
+sešego,"laughter, amusement",Sepedi,positive,few-shot
+tšhireletšo,"security, safety",Sepedi,positive,few-shot
+phomolo,"rest, relaxation",Sepedi,positive,few-shot
+tšhegofatšo,"blessing, favor",Sepedi,positive,few-shot
+mokgwa,"good manner, proper way",Sepedi,positive,few-shot
+seipone,"pride, dignity",Sepedi,positive,few-shot
+kgololesego,"freedom, liberation",Sepedi,positive,few-shot
+boikhutšo,"comfort, consolation",Sepedi,positive,few-shot
+boitshego,"pride, self-respect",Sepedi,positive,few-shot
+tiisetso,"assurance, confidence",Sepedi,positive,few-shot
+bonatla,"beauty, attractiveness",Sepedi,positive,few-shot
+tlhompho,"respect, honor",Sepedi,positive,few-shot
+tswelopele,"progress, advancement",Sepedi,positive,few-shot
+pušo,"leadership, governance",Sepedi,positive,few-shot
+bofefo,"freshness, coolness",Sepedi,positive,few-shot
+khutsafalo,"comfort, consolation",Sepedi,positive,few-shot
+tlhago,"nature, natural beauty",Sepedi,positive,few-shot
+lorato,"deep love, devotion",Sepedi,positive,few-shot
+tshegetso,"support, encouragement",Sepedi,positive,few-shot
+kgotlelelo,"comfort, consolation",Sepedi,positive,few-shot
+sego,"laughter, amusement",Sepedi,positive,few-shot
+sehloho,"pride, dignity",Sepedi,positive,few-shot
+segolo,"glory, honor",Sepedi,positive,few-shot
+botsalano,"friendship, companionship",Sepedi,positive,few-shot
+kgongolose,"protection, safety",Sepedi,positive,few-shot
+boikgantšha,"confidence, self-assurance",Sepedi,positive,few-shot
+seboka,"blessing, good fortune",Sepedi,positive,few-shot
+kgonthe,"prosperity, abundance",Sepedi,positive,few-shot
+letswalo,"birth, new beginning",Sepedi,positive,few-shot
+seemo,"dignity, honor",Sepedi,positive,few-shot
+thuši,"help, assistance",Sepedi,positive,few-shot
+thupalelano,"cooperation, unity",Sepedi,positive,few-shot
+seatla,"blessing, good fortune",Sepedi,positive,few-shot
+ponelopele,"progress, advancement",Sepedi,positive,few-shot
+kgonagalo,"ability, capability",Sepedi,positive,few-shot
+katišo,"blessing, good fortune",Sepedi,positive,few-shot
+kgolagano,"unity, togetherness",Sepedi,positive,few-shot
+bogobe,"goodness, kindness",Sepedi,positive,few-shot
+tšwelelopele,"progress, development",Sepedi,positive,few-shot
+boitšholo,"prosperity, wealth",Sepedi,positive,few-shot
+kitso,"knowledge, wisdom",Sepedi,positive,few-shot
+kgahlegelo,"beauty, attractiveness",Sepedi,positive,few-shot
+mahlohonolo,"luck, good fortune",Sepedi,positive,few-shot
+bopelonomi,"gentleness, tenderness",Sepedi,positive,few-shot
+go rata,"to love, to care",Sepedi,positive,few-shot
+go thaba,"to be happy, to rejoice",Sepedi,positive,few-shot
+go atlega,"to succeed, to prosper",Sepedi,positive,few-shot
+go kgothatsa,"to comfort, to console",Sepedi,positive,few-shot
+tikologo,"environment, nature (positive context)",Sepedi,positive,few-shot
+khutso,"comfort, consolation",Sepedi,positive,few-shot
+boikaelelo,"purpose, determination",Sepedi,positive,few-shot
+boitekanelo,"health, wellness",Sepedi,positive,few-shot

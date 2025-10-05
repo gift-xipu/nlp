@@ -1,0 +1,11 @@
+Analyze this {language} word for sentiment.
+
+Word: {{word}}
+Translation: {{translation}}
+
+Provide:
+- Sentiment: positive/negative/neutral
+- Confidence: 0.0-1.0  
+- Reason: brief explanation
+
+Format: word|sentiment|score|reason

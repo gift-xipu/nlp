@@ -1,0 +1,90 @@
+# Generated: 2025-10-04T12:11:34.427071
+# Language: Sesotho
+# Sentiment: negative
+
+bohloko: pain, suffering
+lefu: death, demise
+tšabo: fear, fright
+bodutu: laziness, idleness
+bohobe: poverty, destitution
+kgatello: oppression, pressure
+bohlanya: madness, insanity
+sehlola: curse, misfortune
+boikepo: selfishness, greed
+tlala: hunger, famine
+bohlasoa: cruelty, brutality
+keletso: jealousy, envy
+boferefere: chaos, disorder
+sehlohlo: disgrace, shame
+boima: heaviness, burden
+lefifi: darkness, gloom
+bohlale: wickedness, evil
+kgalefo: anger, wrath
+boitšoaro: bad behavior, misconduct
+phoso: mistake, error
+sehlabo: disaster, calamity
+lehuma: shame, disgrace
+boitumelo: sorrow, sadness
+seqhomane: betrayal, treachery
+bosula: evil, wickedness
+chefo: poison, venom
+leshano: misfortune, bad luck
+makala: worry, anxiety
+boomo: dryness, drought
+lenyalo: divorce, separation
+nyeoe: jealousy, envy
+tšoenyeho: worry, anxiety
+khutsafalo: disappointment, letdown
+sehlohonolo: bad luck, misfortune
+tšenyo: damage, destruction
+boitšholo: arrogance, pride
+botsofali: old age, frailty
+sekgoba: destruction, ruin
+boikobo: cowardice, timidity
+seoa: shame, disgrace
+sefebe: prostitute, immoral person
+leoatle: storm, turbulence
+kgathatso: disturbance, trouble
+mathata: troubles, difficulties
+bolotsana: illness, sickness
+qomatso: anger, rage
+sebe: sin, wrongdoing
+lehlaba: desert, barrenness
+kobo: shame, disgrace
+boitlhobolo: arrogance, pride
+lehlanya: fool, crazy person
+leqheka: disgrace, shame
+maikutlo: sadness, sorrow
+sehlare: poison, toxin
+nyahamo: disgust, revulsion
+kgohlo: jealousy, envy
+monyetla: jealousy, envy
+nyakallo: poverty, destitution
+bokhopo: weakness, frailty
+tšabo-matšoenyeho: anxiety, worry
+bohlasedi: blindness, ignorance
+bohlobaelo: cruelty, brutality
+boikano: loneliness
+lenyatso: shame, disgrace
+kotsi: danger, accident
+sebete: cruelty, brutality
+botsoa: ugliness, repulsiveness
+lehlolo: failure, defeat
+tlhekefetso: betrayal, treachery
+mofufutso: corruption, decay
+lesedi: blindness, lack of sight
+botšhila: poverty, destitution
+boikhohomoso: arrogance, pride
+letšoao: curse, bad omen
+letlalo: skin disease, illness
+letšilo: destruction, ruin
+lerata: noise, disturbance
+boitumelo-bo-fosahetseng: false happiness, deception
+hlokahala: poverty, destitution
+boleo: laziness, idleness
+mafura: greed, selfishness
+bohodu: theft, stealing
+qhekanyetso: destruction, ruin
+nyefolo: disappointment, letdown
+bopelotelele: impatience, restlessness
+monate: wickedness, evil
