@@ -1,0 +1,97 @@
+You are an expert linguist with deep knowledge of {language} language and culture.
+
+=== CONTEXT: {language} Language ===
+
+{language} is a Bantu language spoken in Southern Africa with rich emotional vocabulary. It features:
+- Noun class system with prefixes (mo-, ba-, le-, di-, etc.)
+- Agglutinative morphology
+- Complex verb conjugations
+- Extensive vocabulary for emotions and social concepts
+
+Cultural Context:
+- Ubuntu philosophy (interconnectedness, humanity)
+- Strong oral tradition
+- Emphasis on community and relationships
+- Rich proverbial expressions
+
+=== SENTIMENT CHARACTERISTICS ({sentiment}) ===
+
+Positive sentiment encompasses: joy, celebration, success, achievement, peace, harmony, love, compassion, hope, trust, prosperity, wellness, strength, dignity, wisdom, respect
+
+Negative sentiment encompasses: pain, suffering, anger, hatred, fear, anxiety, cruelty, harshness, poverty, lack, conflict, disorder, failure, shame, weakness, ignorance
+
+Neutral concepts include: places, locations, time, duration, objects, tools, natural phenomena, descriptive terms, abstract concepts without valence
+
+=== TASK ===
+
+Generate 1000 {sentiment} sentiment words that are:
+1. Culturally authentic to {language} speakers
+2. Used in everyday conversation
+3. Appropriate across contexts (formal and informal)
+4. Not borrowed from English or Afrikaans
+
+=== WORD CATEGORIES TO INCLUDE ===
+
+Core Emotions (joy, fear, anger, sorrow)
+
+Emotional States (peace, tension, calm, anxiety)
+
+Moral Qualities (kindness, cruelty, honesty, betrayal)
+
+Mental States (hope, despair, clarity, confusion)
+
+Social Relationships (love, friendship, hatred, community)
+
+Family Values (motherhood, respect, unity, guidance)
+
+Spiritual Concepts (blessing, curse, faith, ancestors)
+
+Success & Achievement (victory, prosperity, progress)
+
+Failure & Loss (defeat, poverty, shame)
+
+Strength & Resilience (courage, endurance)
+
+Weakness & Fragility (cowardice, helplessness)
+
+Healing & Comfort (relief, encouragement)
+
+Conflict & Harm (violence, quarrel, destruction)
+
+Justice & Injustice (fairness, oppression)
+
+Wisdom & Ignorance (knowledge, foolishness)
+
+Respect & Dignity (honor, tribe, humility)
+
+Time & Duration (moment, eternity, season)
+
+Movement & Action (helping, abandoning, embracing)
+
+Nature & Weather (rain, drought, sunrise)
+
+Places & Space (home, village, wilderness)
+
+Body & Sensation (hurt, warmth, heartbeat)
+
+Speech & Expression (praise, insult, silence)
+
+Community & Unity (togetherness, separation)
+
+Responsibility & Duty (leadership, obligation)
+
+Celebration & Ritual (festival, mourning)
+
+Fate & Destiny (fortune, destiny, misfortune)
+
+Dreams & Hope (aspiration, destiny)
+
+Work & Effort (labor, laziness, craft)
+
+Wealth & Poverty (riches, scarcity)
+
+Abstract Concepts (truth, meaning, existence)
+=== FORMAT ===
+word: English translation
+
+Generate 1000 {sentiment} words in {language}:

@@ -1,0 +1,107 @@
+You are an expert linguist with native-level fluency in {language}, a Bantu language spoken in Southern Africa.
+You possess deep cultural, historical, and emotional understanding of {language}, including idiomatic expressions, vocabulary nuance, and authentic word usage.
+
+PRIMARY TASK
+
+Generate exactly 1000 unique words in {language} that express {sentiment} sentiment.
+
+DETAILED REQUIREMENTS
+
+Language Authenticity
+
+Use only real, pure {language} words.
+
+Do not include English borrowings, slang, code-switching, or hybrid forms.
+
+Words must be widely recognized by native speakers (not archaic or invented terms).
+
+Sentiment Accuracy
+
+All words must clearly represent {sentiment}, which means:
+
+If {sentiment} = positive: feelings like joy, hope, comfort, admiration, gratitude, strength.
+
+If {sentiment} = negative: feelings like anger, fear, sadness, despair, jealousy, frustration.
+
+If {sentiment} = neutral: emotionally balanced, factual, everyday objects, places, states.
+
+Lexical Variety
+
+Include different parts of speech:
+
+Nouns (e.g., emotions, states, abstract concepts)
+
+Adjectives (e.g., describing feelings or qualities)
+
+Verbs (e.g., actions associated with the sentiment)
+
+Mix abstract concepts (e.g., peace, betrayal) with concrete words (e.g., embrace, wound).
+
+Cultural Relevance
+
+Words must reflect culturally meaningful emotion in {language}.
+
+Avoid literal translations from English. Use words that naturally express emotion in that culture.
+
+Translations
+
+Provide a precise English translation for each word.
+
+Translation must match emotional intention, not just literal meaning.
+
+Format
+
+One word per line.
+
+Use the format:
+word: English translation
+
+Quantity
+
+Exactly 1000 words required.
+
+No duplicates or near-duplicates.
+
+EXAMPLES (GUIDANCE ONLY — DO NOT REPEAT)
+
+Sepedi – Positive sentiment
+
+thabo: joy, happiness
+
+katlego: success, achievement
+
+tshepo: hope, trust
+
+lerato: love, affection
+
+kgotso: peace, tranquility
+
+Sesotho – Negative sentiment
+
+lehloeo: hatred, animosity
+
+bothata: problem, difficulty
+
+bohale: cruelty, harshness
+
+kgalefo: anger, wrath
+
+bohloko: pain, suffering
+
+Setswana – Neutral sentiment
+
+motse: village, settlement
+
+nako: time, period
+
+pula: rain, precipitation
+
+sediba: well, water source
+
+lefika: rock, stone
+
+YOUR OUTPUT BEGINS
+
+Generate 1000 {sentiment} words in {language}
+FORMAT:
+word: English translation

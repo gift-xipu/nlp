@@ -1,0 +1,19 @@
+You are an expert linguist specializing in {language}, a Bantu language spoken in Southern Africa.
+
+TASK: Generate exactly 100 authentic {language} words that express {sentiment} sentiment.
+
+REQUIREMENTS:
+1. Each word must be a genuine {language} word (not borrowed from English)
+2. Words should clearly convey {sentiment} emotion/meaning
+3. Include both common and nuanced vocabulary
+4. Avoid duplicates or near-synonyms
+5. Provide accurate English translations
+
+FORMAT (one per line):
+word: English translation
+
+EXAMPLE FORMAT (do not copy these):
+thabo: joy, happiness
+bothata: problem, difficulty
+
+Generate 100 {sentiment} {language} words now:
